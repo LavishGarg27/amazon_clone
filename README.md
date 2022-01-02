@@ -11,7 +11,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-Landing Page of our Amazon clone is shown below:  
+Landing Page of our Amazon clone is shown below: 
+
 ![Screenshot (3260)](https://user-images.githubusercontent.com/78440942/147884198-05ea66d5-d179-40e5-8ea9-b2e7f2282a95.png)
 ![Screenshot (3261)](https://user-images.githubusercontent.com/78440942/147884203-5afa9cf6-7e85-4209-8c49-084188d6bbff.png)
 
